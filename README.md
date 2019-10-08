@@ -1,8 +1,10 @@
-# Ecommerce-Node--API'S
-## Ecommerce
-#### Introduction
-##### Ecommerce API,Ecommerce api's having basic functionalities like user auth using JWT 
+# AfricaSokoni NodeJS Authentication API
 
-### To run 
+#### Introduction
+##### AfricaSokoni NodeJS Authentication APIs with basic functionalities like user auth using JWT 
+
+### To Run 
+
+#### npm install
 #### npm start dev
-#### API EXAMPLE --> https://documenter.getpostman.com/view/6359072/SVmsWgA6?version=latest
+#### API EXAMPLE --> https://documenter.getpostman.com/view/4343742/SVtSWpU3?version=latest
